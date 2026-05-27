@@ -137,7 +137,37 @@ Password: password123
 
 # Screenshots
 
-(Add screenshots here later)
+## Login Page
+
+![Login Page](screenshots/login/login.png)
+
+---
+
+## Register Page
+
+![Register Page](screenshots//register/register.png)
+
+---
+
+## Chart
+
+![Chart](screenshots/charts/chart.png)
+![Chart](screenshots/charts/charts.png)
+
+---
+
+## Budget
+
+![Budget](screenshots/budget/budget.png)
+
+---
+
+## Transactions
+
+![Transactions](screenshots/transaction/transaction.png)
+
+## Category
+![Category](screenshots/category/category.png)
 
 ---
 
